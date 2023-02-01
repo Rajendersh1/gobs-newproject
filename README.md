@@ -1,0 +1,2 @@
+# gobs-newproject
+New project
